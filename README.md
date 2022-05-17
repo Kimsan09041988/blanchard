@@ -1,1 +1,3 @@
-# blanchard
+# Blanchard
+
+Blanchard - курсовая работа
